@@ -1,0 +1,13 @@
+C:\GGG\canbac1\bin\Debug\netcoreapp3.1\canbac1.exe
+C:\GGG\canbac1\bin\Debug\netcoreapp3.1\canbac1.deps.json
+C:\GGG\canbac1\bin\Debug\netcoreapp3.1\canbac1.runtimeconfig.json
+C:\GGG\canbac1\bin\Debug\netcoreapp3.1\canbac1.runtimeconfig.dev.json
+C:\GGG\canbac1\bin\Debug\netcoreapp3.1\canbac1.dll
+C:\GGG\canbac1\bin\Debug\netcoreapp3.1\canbac1.pdb
+C:\GGG\canbac1\obj\Debug\netcoreapp3.1\canbac1.csprojAssemblyReference.cache
+C:\GGG\canbac1\obj\Debug\netcoreapp3.1\canbac1.AssemblyInfoInputs.cache
+C:\GGG\canbac1\obj\Debug\netcoreapp3.1\canbac1.AssemblyInfo.cs
+C:\GGG\canbac1\obj\Debug\netcoreapp3.1\canbac1.csproj.CoreCompileInputs.cache
+C:\GGG\canbac1\obj\Debug\netcoreapp3.1\canbac1.dll
+C:\GGG\canbac1\obj\Debug\netcoreapp3.1\canbac1.pdb
+C:\GGG\canbac1\obj\Debug\netcoreapp3.1\canbac1.genruntimeconfig.cache
